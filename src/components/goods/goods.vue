@@ -1,7 +1,7 @@
 <template>
   <div class="goods">
     I am goods
-  </div>
+  </div>                                                                                                                                                                                                                                                                                                                                                             
 </template>
 
 <script type="text/ecmasript-6">
